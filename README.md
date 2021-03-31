@@ -1,7 +1,7 @@
 # typora-theme-redrail
 This is a typora theme inspired by [pie](https://github.com/shrugginG/typora-theme-pie) and [ursine](https://github.com/danielduyixin/typora-theme-ursine) theme.
 
-English | 简体中文
+English | [简体中文](./README_CN.md)
 ## Origin
 The 'RedRail' theme inspired by the theme of the Minority Style，which perform well in the `pie` and `ursine` themes. Among the various Typora themes, the Minority Style uses a striking and refreshing red color as its base tone, which makes coding and note-taking more enjoyable and relaxed. Also, use light themes during the day to make your notes clear, and dark themes at night to make your notes comfortable. Here are a few sources of inspiration, thank you in advance.
 - [pie](https://github.com/shrugginG/typora-theme-pie) theme
