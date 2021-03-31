@@ -1,6 +1,7 @@
 # typora-theme-redrail
 > 一个`typora`主题，具有[pie](https://github.com/shrugginG/typora-theme-pie)和[ursine](https://github.com/danielduyixin/typora-theme-ursine)的风格。
-English | 简体中文
+
+[English](./README.md) | 简体中文
 ## 主题的由来
 `redrail`主题来源于少数派风格的主题，在各种typora主题中，少数派风格以令人醒目清爽的红色作为基调，能在代码和笔记过程中令人更加愉悦与轻松。同时，在白天使用浅色主题使笔记清晰明了，夜晚可以使用深色主题令人舒适。以下为几处灵感来源，对此表示感谢。
 - [pie](https://github.com/shrugginG/typora-theme-pie)主题
