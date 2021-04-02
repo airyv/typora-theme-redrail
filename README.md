@@ -12,9 +12,9 @@ The 'RedRail' theme inspired by the theme of the Minority Style，which perform 
 - [x]  :rocket: typora-theme-redrail have optimized font colors, page sizes, ordered lists and unordered lists
 - [x]  :sailboat: typora-theme-redrail-night has been adjusted for font color, background color, font size, reference block, line height, font spacing, code block font, interline code, and code block highlighting to make it more compatible and comfortable
 ## Install theme
-1. Download `redrail.css`, `redrail-night.css`, and `redrail-night.user.css` files， `redrail` and `redrail-night` folders in this theme，** The `redrail` and `redrail-night` folders is not necessary, it only contains the required fonts;**
+1. Download `redrail.css`, `redrail-night.css` files， `redrail` and `redrail-night` folders in this theme，** The `redrail` and `redrail-night` folders is not necessary, it only contains the required fonts;**
 2. Open Typora, click "**Preferences** `(ctrl +,)`" => "**Appearance**" => "**Open Theme Folder**" button, the theme folder of Typora will pop up;
-3. Put the downloaded `redrail.css` , `redrail-night.css`, `redrail-night.user.css` files, `redrail`, `redrail-night` folders into the theme folder of Typora;
+3. Put the downloaded `redrail.css` , `redrail-night.css` files, `redrail`, `redrail-night` folders into the theme folder of Typora;
 4. Close and reopen Typora, select "**Theme**" => "**redrail**" or "**redrail-night**" from the menu bar.
 
 > For a better experience, make sure the computer has Consolas installed, with the font 'Source Han SerifCN'.
