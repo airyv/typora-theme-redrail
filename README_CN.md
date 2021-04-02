@@ -12,9 +12,9 @@
 - [x]  :rocket: 浅色主题具有优化的字体颜色，页宽，有序列表和无序列表
 - [x]  :sailboat: 暗黑主题对字体颜色，背景颜色，字体粗细，引用块，字体行高，字体间距，代码块字体，行间代码，代码块高亮样式进行了调整，更加协调和舒适
 ## 安装主题
-1. 下载本主题中的`redrail.css`，`redrail-night.css`和`redrail-night.user.css`文件，以及 `redrail`和 `redrail-night` 文件夹，** `redrail`和 `redrail-night` 文件夹不是必须的，这里面仅仅包含了所需的字体**；
+1. 下载本主题中的`redrail.css`，`redrail-night.css`文件，以及 `redrail`和 `redrail-night` 文件夹，** `redrail`和 `redrail-night` 文件夹不是必须的，这里面仅仅包含了所需的字体**；
 2. 打开 Typora，点击“**偏好设置**（`ctrl + ,`）” => “**外观**” => “**打开主题文件夹**”按钮，会弹出 Typora 的主题文件夹；
-3. 将下载好的`redrail.css`，`redrail-night.css`和`redrail-night.user.css`文件，以及 `redrail`和 `redrail-night` 文件夹放到 Typora 的主题文件夹中；
+3. 将下载好的`redrail.css`，`redrail-night.css`文件，以及 `redrail`和 `redrail-night` 文件夹放到 Typora 的主题文件夹中；
 4. 关闭并重新打开 Typora，从菜单栏中选择 “**主题**” => “**redrail**”或“**redrail-night**” 即可。
 
 >用户想获得更好的体验，请确保电脑已安装Consolas, 'Source Han SerifCN'字体。
