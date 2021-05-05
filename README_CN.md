@@ -22,5 +22,6 @@
 >用户想获得更好的体验，请确保电脑已安装Consolas, 'Source Han SerifCN'字体。
 
 ## 效果图
-![light-theme](README_CN.assets/light-theme.png)
+![light-theme](README_CN.assets/light-theme-1.png)
+![light-theme](README_CN.assets/light-theme-2.png)
 ![dark-theme](README_CN.assets/dark-theme.png)
