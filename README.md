@@ -22,6 +22,6 @@ If you like this theme, please praise a star, thank you for your attention！
 > For a better experience, make sure the computer has Consolas installed, with the font 'Source Han SerifCN'.
 
 ## Snapshots
-![light-theme](README.assets/light-theme-1.png)
+
 ![light-theme](README.assets/light-theme-2.png)
 ![dark-theme](README.assets/dark-theme-1.png)
