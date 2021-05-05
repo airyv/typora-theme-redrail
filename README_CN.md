@@ -7,6 +7,8 @@
 - [pie](https://github.com/shrugginG/typora-theme-pie)主题
 - [ursine](https://github.com/danielduyixin/typora-theme-ursine)主题
 - `@张晋`对于pie主题与ursine的修改
+
+如果您喜欢这个主题，请给一个星星点赞，谢谢您的关注！
 ## 特性
 - [x]  :baby_chick: 支持暗黑主题
 - [x]  :rocket: 浅色主题具有优化的字体颜色，页宽，有序列表和无序列表
