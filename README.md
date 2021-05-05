@@ -7,6 +7,7 @@ The 'RedRail' theme inspired by the theme of the Minority Style，which perform 
 - [pie](https://github.com/shrugginG/typora-theme-pie) theme
 - [ursine](https://github.com/danielduyixin/typora-theme-ursine) theme
 - Zhang Jin's modifications of the `pie` theme and `ursine` theme
+If you like this theme, please praise a star, thank you for your attention！
 ## Feature
 - [x]  :baby_chick: Dark theme is available
 - [x]  :rocket: typora-theme-redrail have optimized font colors, page sizes, ordered lists and unordered lists
