@@ -24,4 +24,4 @@ If you like this theme, please praise a star, thank you for your attention！
 ## Effect map
 ![light-theme](README.assets/light-theme-1.png)
 ![light-theme](README.assets/light-theme-2.png)
-![dark-theme](README.assets/dark-theme.png)
+![dark-theme](README.assets/dark-theme-1.png)
