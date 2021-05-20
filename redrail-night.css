@@ -37,6 +37,9 @@
     --main-8: #a60a0f;
     --main-9: #80010a;
     --main-10: #590009;
+    
+    /* set mermaid to dark theme */
+    --mermaid-theme: dark;
 }
 
 html {
