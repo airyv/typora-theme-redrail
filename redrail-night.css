@@ -37,7 +37,7 @@
     --main-8: #a60a0f;
     --main-9: #80010a;
     --main-10: #590009;
-    
+
     /* set mermaid to dark theme */
     --mermaid-theme: dark;
 }
@@ -51,7 +51,9 @@ body {
     /*font-family: "Vollkorn", Palatino, Times; */
     /*font-family: 'Microsoft YaHei UI', Georgia, Times, 'SimSun', serif!important; */
     /*font-family: 'Source Han SerifCN', Georgia, Times, 'SimSun', serif!important; */
-    font-family: Consolas, 'Source Han SerifCN', Georgia, Times, 'SimSun', serif!important;
+    /*font-family: Consolas, 'Source Han SerifCN', Georgia, Times, 'SimSun', serif!important;*/
+    /*font-family: 'cascadia code', Consolas, 'Source Han SerifCN', Georgia, Times, 'SimSun';*/
+    font-family: 'Menlo', Consolas, 'Source Han SerifCN', Georgia, Times, 'SimSun';
     font-weight: normal;
     /*color: var(--mid-13);*/
     color: #cdcbcb;
@@ -468,9 +470,8 @@ table tr td:last-child {
 
 
 /* 数学公式变蓝 */
-
 [md-inline='inline_math'] {
-    color: #f7d2c9;
+    color: #f7d2c9; 
     font-size: 110%;
 }
 
@@ -506,6 +507,7 @@ table tr td:last-child {
 .cm-s-inner .CodeMirror-cursor {border-left: 1px solid #d4cfc9 !important;}
 
 .cm-s-inner .cm-builtin{ color: #76dcde;}
+.cm-s-inner .cm-meta {color: #CDCBCB;}
 
 .cm-s-inner span.cm-comment {color: #bc9458;}
 .cm-s-inner span.cm-atom {color: #b6b3eb;}
@@ -539,7 +541,8 @@ table tr td:last-child {
     border-radius: 2px;
     /*font-family: 'Roboto Mono', 'Source Sans Pro', 'Microsoft YaHei', '微软雅黑' !important;*/
     /*font-family: 'Roboto Mono', 'Source Sans Pro', 'Microsoft YaHei', '微软雅黑';*/
-    font-family: Consolas, 'Source Han SerifCN', Georgia, Times, 'SimSun' !important;
+    /*font-family: Consolas, 'Source Han SerifCN', Georgia, Times, 'SimSun' !important;*/
+    font-family: 'Menlo';
     /*font-size: 0.9rem;*/
     font-size: 17px;
     font-weight: normal;
@@ -832,6 +835,11 @@ footer {
 
 
 /* 侧边栏 */
+
+/* 侧边栏下方“操作、排序、最近使用的目录”的颜色 */
+#sidebar-files-menu.dropdown-menu>li>a {
+    color: #CDCBCB;
+}
 
 .file-list-item.active {
     background: var(--active-file-bg-color);
