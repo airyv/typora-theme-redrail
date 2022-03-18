@@ -25,3 +25,49 @@ If you like this theme, please praise a star, thank you for your attention！
 
 ![light-theme](README.assets/light-theme-2.png)
 ![dark-theme](README.assets/dark-theme-1.png)
+
+## Update
+
+**Updated March 18, 2022**
+
+The dark theme:
+
+1. Adjust the dark mode of the text right-click properties.
+
+2. The mouseover color issue of the sidebar file.
+
+3. The background color of the file name in the sidebar is not clear.
+
+4. Select the text background color adjustment for the text.
+
+**Updated June 9, 2021**
+
+The light theme:
+
+1. The English font is changed from Consolas to Menlo, which is more friendly to code and has a higher degree of differentiation than Consolas. The Chinese font is changed from Siyuan Song type to Microsoft Yahei, which can get a better experience on low-resolution screens.
+
+2. Set the font color in source code mode.
+
+3. Adjust the interline code color.
+
+The dark theme:
+
+1. Modify the English and Chinese fonts.
+
+2. Modify the highlight color of some code boxes.
+
+3. Modify the color of the action box below the sidebar.
+
+**Updated April 2, 2021**
+
+1. Modified the left spacing of light and dark theme code blocks
+
+2. Adjust the dark theme table color.
+
+3. Adjust the font color in the markdown box.
+
+4. Delete the redrail-night.user.css file and put the configuration in redrail-night.css.
+
+5. Modify the formula color of light theme and dark theme.
+
+**Created March 31, 2021**
