@@ -4,9 +4,22 @@
     /*--side-bar-bg-color: #fff;*/
     --side-bar-bg-color: #262626;
 
-    --control-text-color: #777;
-    --select-text-bg-color: #ffafa3;
-    --active-file-text-color: #262626;
+    /*正文右键属性背景色*/
+    --bg-color:#525252;
+
+    /*侧边栏文件鼠标悬停颜色*/
+    --text-color:#cccaca;
+
+    /*侧边栏文件选择后背景色*/
+    --active-file-bg-color: #74706f;
+
+    /*正文文本选择背景色*/
+    --select-text-bg-color: #cf5846;
+
+    --control-text-color: #cdcbcb;
+    
+    /*--active-file-text-color: #262626;*/
+    --active-file-text-color: #cdcbcb;
     --active-file-border-color: #f22f27;
     /* --active-file-bg-color: #fff3f0; */
     --primary-color: #f22f27;
@@ -881,3 +894,5 @@ footer {
         word-wrap: break-word;
     }
 }
+
+
